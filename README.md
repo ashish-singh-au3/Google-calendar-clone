@@ -6,7 +6,7 @@ Features :
 4. Switch between months and years.
 5. Update Events.
 
-Technology used:
- Reactjs
- Redux, redux-thunk
+Tech/Language's used:
+ Reactjs ,
+ Redux, redux-thunk,
  Nodejs
